@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "093aa52a66029e9ad99a89b1f4281014e189c63b427c1c38e17a8e6f48e143fe"
+            "sha256": "aaad5f345371b8ab822361c0331db3155d47dae672eacc04a65e62b291e76e05"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,20 +16,21 @@
         ]
     },
     "default": {
-        "asgiref": {
-            "hashes": [
-                "sha256:7e06d934a7718bf3975acbf87780ba678957b87c7adc056f13b6215d610695a0",
-                "sha256:ea448f92fc35a0ef4b1508f53a04c4670255a3f33d22a81c8fc9c872036adbe5"
-            ],
-            "version": "==3.2.3"
-        },
         "django": {
             "hashes": [
-                "sha256:6f857bd4e574442ba35a7172f1397b303167dae964cf18e53db5e85fe248d000",
-                "sha256:d98c9b6e5eed147bc51f47c014ff6826bd1ab50b166956776ee13db5a58804ae"
+                "sha256:a4ad4f6f9c6a4b7af7e2deec8d0cbff28501852e5010d6c2dc695d3d1fae7ca0",
+                "sha256:fa98ec9cc9bf5d72a08ebf3654a9452e761fbb8566e3f80de199cbc15477e891"
             ],
             "index": "pypi",
-            "version": "==3.0"
+            "version": "==2.2.8"
+        },
+        "jpholiday": {
+            "hashes": [
+                "sha256:29cedd5bdca1cc80c07d7131adb8ccd86c80178de7db83c5f5ded9736c453fc0",
+                "sha256:9dea08326ad7c1785215c808c106204d55b5c3b72ad35ffce89641b00185580e"
+            ],
+            "index": "pypi",
+            "version": "==0.0.7"
         },
         "pytz": {
             "hashes": [
